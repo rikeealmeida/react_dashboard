@@ -121,7 +121,7 @@
     transform: translateY(-50%);
     left: 195px;   
     font-size: 22px;
-    transition: transform 0.4s;
+    transition: transform 0.5s;
 }
 
 .sidebar__link a:hover span {

@@ -1,5 +1,5 @@
 import hello from '../../assets/hello.svg';
-import chart from '../charts/chart.js';
+import chart from '../charts/chart.jsx';
 import main from '../../components/main/Main.css';
 import React from 'react';
 
